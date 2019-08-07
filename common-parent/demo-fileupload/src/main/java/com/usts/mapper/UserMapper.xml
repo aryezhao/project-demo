@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.usts.mapper.UserMapper" >
+
+    <select id="findAll" resultType="hashmap">
+        SELECT * FROM USER
+    </select>
+
+    <insert id="addUser" parameterType="user">
+        INSERT INTO USER (id,name,pwd,image) VALUES (#{id},#{name},#{pwd},#{image});
+    </insert>
+
+
+</mapper>

@@ -43,9 +43,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-messaging:4.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context-support:4.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-test:4.2.4.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba:dubbo:unknown" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:unknown" level="project" />
-    <orderEntry type="library" name="Maven: com.github.sgroschupf:zkclient:unknown" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:unknown" level="project" />
     <orderEntry type="library" name="Maven: org.mybatis:mybatis:3.2.8" level="project" />
     <orderEntry type="library" name="Maven: com.mchange:c3p0:${c3p0.version}" level="project" />

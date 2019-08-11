@@ -16,7 +16,7 @@
     用户名：${userList.name}<br>
     密码：${userList.pwd }<br>
     <!--拼接图片回显的的URL-->
-    <img  src="http://114.67.73.152/${userList.image}"><br>
+    <img  src="http://114.67.73.152/${userList.image}" width="100px" height="100px"><br>
 </c:forEach>
 </body>
 </html>

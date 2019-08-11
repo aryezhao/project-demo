@@ -1,0 +1,5 @@
+综合项目案例
+    -common-parent：
+        父级目录
+        -demo-fileupload
+            图片上传到指定位置地址，并保存到数据库
